@@ -1,2 +1,0 @@
-# Gaddy-JavaScriptExercises
-Gaddy
