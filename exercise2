@@ -1,0 +1,14 @@
+var y = "yes"
+var n = "no"
+var result = prompt("Do you want to play?")
+
+do{
+  if (result === y){
+    var newques = prompt("Enter a word");
+  }}while(result===newques)
+  console.log(newques)
+  
+  do{
+if (result === n){
+console.log("Game Over")}
+}while(result===newques);
