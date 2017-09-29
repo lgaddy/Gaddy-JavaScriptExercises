@@ -1,0 +1,28 @@
+var ques = prompt("What's yor name?");
+var names = prompt("Would you like to print your name?");
+
+while (ques===names){
+  names===yes;
+}
+console.log("Hello. My names is", ques)
+
+var names = prompt("Would you like to print your name again?");
+
+while (ques===names){
+  names===yes;
+}
+console.log("Hello. My names is", ques + "!")
+
+var names = prompt("Would you like to print your name again?");
+
+while (ques===names){
+  names===yes;
+}
+console.log("Hello. My names is", ques + "!!")
+
+var names = prompt("Would you like to print your name again?");
+
+while (ques===names){
+  names===no;
+}
+console.log()
