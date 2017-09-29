@@ -1,0 +1,9 @@
+var input = prompt("Enter a Number");
+
+alert (input)
+
+var total = 0;
+for(var i = 1; i< 16; i++){
+  total = total + 1;
+}
+	console.log(total);
